@@ -1,0 +1,29 @@
+.haji{
+  background-color: red;
+  color: green;
+}
+
+.haji p{
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+.xaaji{
+  background: purple;
+  color: red;
+}
+.xaaji span {
+  color: white;
+}
+.xaaji p {
+  font-size: 26px;
+  font-style: italic;
+  font-family: sans-serif;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+p a{
+  font-size: 20px;
+}

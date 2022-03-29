@@ -1,0 +1,11 @@
+.waadi{
+  border-left: 10px solid green;
+  border-right: 12px solid purple;
+  border-top: 6px dotted red;
+  border-bottom: 8px dotted skyblue;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.waadi p {
+  font-size: 30px;
+}
